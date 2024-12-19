@@ -1,0 +1,1 @@
+# Detec-o-de-Rostos-e-Imagens-no-Microsoft-Azure
